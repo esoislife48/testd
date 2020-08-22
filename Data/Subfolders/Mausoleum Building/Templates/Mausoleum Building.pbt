@@ -1,0 +1,52 @@
+﻿Assets {
+  Id: 8104527202078539776
+  Name: "Mausoleum Building"
+  PlatformAssetType: 5
+  TemplateAsset {
+    ObjectBlock {
+      RootId: 17708600518021049225
+      Objects {
+        Id: 17708600518021049225
+        Name: "TemplateBundleDummy"
+        Transform {
+          Location {
+          }
+          Rotation {
+          }
+          Scale {
+            X: 1
+            Y: 1
+            Z: 1
+          }
+        }
+        UnregisteredParameters {
+        }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:inheritfromparent"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:inheritfromparent"
+        }
+        Folder {
+          BundleDummy {
+            ReferencedAssets {
+              Id: 4354676469575545734
+            }
+          }
+        }
+      }
+    }
+    PrimaryAssetId {
+      AssetType: "None"
+      AssetId: "None"
+    }
+  }
+  Marketplace {
+    Id: "09259641b96d45be90fc4f9c18a9f476"
+    OwnerAccountId: "400d8e7acb154e5bb64368411824b61d"
+    OwnerName: "Bigglebuns"
+    Version: "1.0.0"
+    Description: "Stone Mausoleum Building with a gargoyle on top. Comes with double doors, sound, and lighting."
+  }
+  SerializationVersion: 62
+}

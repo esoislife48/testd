@@ -1,0 +1,95 @@
+﻿MetaVersion: 1
+MarketplaceDetails {
+  Id: "2790a8e310e244abae91cb935d9cc288"
+  OwnerAccountId: "7eb555c760bf46749259bce008ddb8cd"
+  OwnerName: "Nezberet"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 474301925775429562
+  value: 14786686161355685907
+}
+AssetIdsOriginalToNew {
+  key: 3882824591213549786
+  value: 12702781826379866937
+}
+AssetIdsOriginalToNew {
+  key: 4689160235286595189
+  value: 7038828835420323619
+}
+AssetIdsOriginalToNew {
+  key: 4722470301334513018
+  value: 18403571553877504368
+}
+AssetIdsOriginalToNew {
+  key: 4964867811819012946
+  value: 5002567309100358679
+}
+AssetIdsOriginalToNew {
+  key: 5435254365148438333
+  value: 15549211121914643317
+}
+AssetIdsOriginalToNew {
+  key: 7473039137614056492
+  value: 2623472573388928692
+}
+AssetIdsOriginalToNew {
+  key: 8294250324085165808
+  value: 2757532012658107238
+}
+AssetIdsOriginalToNew {
+  key: 9864355182184370798
+  value: 9217260489479573630
+}
+AssetIdsOriginalToNew {
+  key: 10855144880634672211
+  value: 9091965382810597096
+}
+AssetIdsOriginalToNew {
+  key: 11192919480659211898
+  value: 6266808347582452537
+}
+AssetIdsOriginalToNew {
+  key: 11298485870920045711
+  value: 6862969090793458358
+}
+AssetIdsOriginalToNew {
+  key: 12115058129235105879
+  value: 8725589718219160351
+}
+AssetIdsOriginalToNew {
+  key: 12196372579882285201
+  value: 1776013004935227127
+}
+AssetIdsOriginalToNew {
+  key: 12668457720264139649
+  value: 14811313946626724976
+}
+AssetIdsOriginalToNew {
+  key: 13039838708654056087
+  value: 12865124215571608810
+}
+AssetIdsOriginalToNew {
+  key: 13653851563034739231
+  value: 17449343329473897725
+}
+AssetIdsOriginalToNew {
+  key: 15817539040558844332
+  value: 6834340899087015462
+}
+AssetIdsOriginalToNew {
+  key: 16156824598633402327
+  value: 15495492517121398910
+}
+AssetIdsOriginalToNew {
+  key: 16552815933987324064
+  value: 15863189024789823390
+}
+AssetIdsOriginalToNew {
+  key: 16915150100797142409
+  value: 3496024634376645962
+}
+AssetIdsOriginalToNew {
+  key: 17977548762940923427
+  value: 9014415059926166092
+}
