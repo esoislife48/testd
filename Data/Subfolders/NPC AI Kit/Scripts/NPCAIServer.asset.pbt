@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 2952763944501741081
+  Id: 15626241454342021168
   Name: "NPCAIServer"
   PlatformAssetType: 3
   TextAsset {
@@ -7,13 +7,13 @@
       Overrides {
         Name: "cs:ModuleManager"
         AssetReference {
-          Id: 5252388527638157429
+          Id: 10090740067946912348
         }
       }
       Overrides {
         Name: "cs:NPCManager"
         AssetReference {
-          Id: 12943466799070837638
+          Id: 5455669182793585171
         }
       }
       Overrides {

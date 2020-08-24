@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 14453147357758503103
+  Id: 10039668359039687341
   Name: "CombatDependencies_README"
   PlatformAssetType: 3
   TextAsset {

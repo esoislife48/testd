@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 17516784043224754375
+  Id: 13412499112564328963
   Name: "MOBA MinionB"
   PlatformAssetType: 5
   TemplateAsset {
@@ -283,7 +283,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 2952763944501741081
+            Id: 15626241454342021168
           }
         }
       }
@@ -323,25 +323,25 @@
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 9217834708405615938
+              Id: 13188651883291048886
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 1520715052340663986
+              Id: 8457743654281390630
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15925255215171086805
+              Id: 13371183979588044104
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 13290744368253898530
+              Id: 13692009545367405293
             }
           }
           Overrides {
@@ -366,7 +366,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 5475798990482747781
+            Id: 8481237916235331159
           }
         }
       }
@@ -560,7 +560,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10516471000312922134
+            Id: 5164319707953879774
           }
         }
       }
@@ -589,13 +589,13 @@
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
         }
@@ -607,7 +607,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 14428142728039202536
+            Id: 8295154599251105935
           }
         }
       }
@@ -701,7 +701,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 16853511573485398403
+            Id: 10927192117712216844
           }
         }
       }
@@ -725,40 +725,6 @@
         ChildIds: 16181938623344365483
         ChildIds: 2376164737637892905
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:ObjectId"
-            Int: 0
-          }
-          Overrides {
-            Name: "cs:CurrentState"
-            Int: 0
-          }
-          Overrides {
-            Name: "cs:MaxHealth"
-            Float: 100
-          }
-          Overrides {
-            Name: "cs:CurrentHealth"
-            Float: 100
-          }
-          Overrides {
-            Name: "cs:DestructibleManager"
-            AssetReference {
-              Id: 3025483998166181138
-            }
-          }
-          Overrides {
-            Name: "cs:CurrentState:isrep"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:CurrentHealth:isrep"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:ObjectId:isrep"
-            Bool: true
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -1311,40 +1277,6 @@
         ChildIds: 7168461025371486649
         ChildIds: 4233865984179518818
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:ObjectId"
-            Int: 0
-          }
-          Overrides {
-            Name: "cs:CurrentState"
-            Int: 0
-          }
-          Overrides {
-            Name: "cs:MaxHealth"
-            Float: 100
-          }
-          Overrides {
-            Name: "cs:CurrentHealth"
-            Float: 100
-          }
-          Overrides {
-            Name: "cs:DestructibleManager"
-            AssetReference {
-              Id: 3025483998166181138
-            }
-          }
-          Overrides {
-            Name: "cs:CurrentState:isrep"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:CurrentHealth:isrep"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:ObjectId:isrep"
-            Bool: true
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"
@@ -4225,40 +4157,6 @@
         ChildIds: 6208495115997381487
         ChildIds: 5561902673116600553
         UnregisteredParameters {
-          Overrides {
-            Name: "cs:ObjectId"
-            Int: 0
-          }
-          Overrides {
-            Name: "cs:CurrentState"
-            Int: 0
-          }
-          Overrides {
-            Name: "cs:MaxHealth"
-            Float: 100
-          }
-          Overrides {
-            Name: "cs:CurrentHealth"
-            Float: 100
-          }
-          Overrides {
-            Name: "cs:DestructibleManager"
-            AssetReference {
-              Id: 3025483998166181138
-            }
-          }
-          Overrides {
-            Name: "cs:CurrentState:isrep"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:CurrentHealth:isrep"
-            Bool: true
-          }
-          Overrides {
-            Name: "cs:ObjectId:isrep"
-            Bool: true
-          }
         }
         Collidable_v2 {
           Value: "mc:ecollisionsetting:inheritfromparent"

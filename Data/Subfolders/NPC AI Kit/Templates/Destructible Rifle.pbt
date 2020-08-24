@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 3110049013502130464
+  Id: 10920164678357396159
   Name: "Destructible Rifle"
   PlatformAssetType: 5
   TemplateAsset {
@@ -37,16 +37,16 @@
           }
           Weapon {
             ProjectileAssetRef {
-              Id: 15248020990581311069
+              Id: 6041008581082170141
             }
             MuzzleFlashAssetRef {
-              Id: 2118113397756347644
+              Id: 16279281971400028631
             }
             TrailAssetRef {
-              Id: 16438890629016708169
+              Id: 17414024260578008407
             }
             ImpactAssetRef {
-              Id: 14826817297662659100
+              Id: 12705576893066774047
             }
             UseReticle: true
             Muzzle {
@@ -57,10 +57,10 @@
             }
             AnimationSet: "2hand_rifle_stance"
             OutOfAmmoSfxAssetRef {
-              Id: 11348488596193728402
+              Id: 13094612310907215540
             }
             ReloadSfxAssetRef {
-              Id: 12028246799940493436
+              Id: 9519434512906794501
             }
             ShootAnimation: "2hand_rifle_shoot"
             ImpactProjectileAssetRef {
@@ -75,7 +75,7 @@
             AttackCooldown: 0.25
             Range: 10000
             ImpactPlayerAssetRef {
-              Id: 13290744368253898530
+              Id: 13692009545367405293
             }
             ReticleType {
               Value: "mc:ereticletype:crosshair"
@@ -103,11 +103,9 @@
       }
       Objects {
         Id: 9498351349790225662
-        Name: "DestructableWeaponServer"
+        Name: "DestructibleWeaponServer"
         Transform {
           Location {
-            X: -359.726563
-            Y: -436.611328
           }
           Rotation {
           }
@@ -137,7 +135,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10195511945372816064
+            Id: 1409614680668261198
           }
         }
       }
@@ -381,7 +379,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 13621888489122306666
+            Id: 4200326358011731340
           }
         }
       }

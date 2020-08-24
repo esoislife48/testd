@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 13912306358445097677
+  Id: 13888275119012648122
   Name: "Skeleton Marksman Arrow"
   PlatformAssetType: 5
   TemplateAsset {

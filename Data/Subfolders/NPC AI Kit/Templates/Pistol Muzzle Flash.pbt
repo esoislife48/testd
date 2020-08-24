@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 1520715052340663986
+  Id: 8457743654281390630
   Name: "Pistol Muzzle Flash"
   PlatformAssetType: 5
   TemplateAsset {

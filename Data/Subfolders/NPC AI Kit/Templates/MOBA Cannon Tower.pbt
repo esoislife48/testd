@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 9961747537301001715
+  Id: 1217851788270407134
   Name: "MOBA Cannon Tower"
   PlatformAssetType: 5
   TemplateAsset {
@@ -282,7 +282,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 2952763944501741081
+            Id: 15626241454342021168
           }
         }
       }
@@ -350,25 +350,25 @@
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 4688715981471178308
+              Id: 9085186285444037973
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 12663492335314304896
+              Id: 13199599634703003261
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15925255215171086805
+              Id: 13371183979588044104
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 13290744368253898530
+              Id: 13692009545367405293
             }
           }
           Overrides {
@@ -401,7 +401,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 5475798990482747781
+            Id: 8481237916235331159
           }
         }
       }
@@ -925,7 +925,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 16853511573485398403
+            Id: 10927192117712216844
           }
         }
       }
@@ -954,13 +954,13 @@
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 1361952367330647434
+              Id: 608772339593381994
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 4531660325628471792
+              Id: 1202563317568491623
             }
           }
         }
@@ -972,7 +972,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 14428142728039202536
+            Id: 8295154599251105935
           }
         }
       }

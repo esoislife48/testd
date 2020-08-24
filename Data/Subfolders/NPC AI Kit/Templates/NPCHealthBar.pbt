@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 8023679252918656313
+  Id: 9615855362250404261
   Name: "NPCHealthBar"
   PlatformAssetType: 5
   TemplateAsset {
@@ -67,7 +67,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 8377141395797729431
+            Id: 4693571107007045880
           }
         }
       }

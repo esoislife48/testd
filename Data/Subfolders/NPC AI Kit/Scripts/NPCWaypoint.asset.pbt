@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 1333754289805685656
+  Id: 18149246606891913118
   Name: "NPCWaypoint"
   PlatformAssetType: 3
   TextAsset {

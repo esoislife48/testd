@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 14761512799038446826
+  Id: 7801920309382288896
   Name: "RPG Dragon Enemy - Easy"
   PlatformAssetType: 5
   TemplateAsset {
@@ -291,7 +291,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 2952763944501741081
+            Id: 15626241454342021168
           }
         }
       }
@@ -334,25 +334,25 @@
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 5050856235132351523
+              Id: 7702279706387205261
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 4977986367803884464
+              Id: 11602633796905265914
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15925255215171086805
+              Id: 13371183979588044104
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 13290744368253898530
+              Id: 13692009545367405293
             }
           }
           Overrides {
@@ -381,7 +381,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 5475798990482747781
+            Id: 8481237916235331159
           }
         }
       }
@@ -575,7 +575,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10516471000312922134
+            Id: 5164319707953879774
           }
         }
       }
@@ -604,13 +604,13 @@
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
         }
@@ -622,7 +622,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 14428142728039202536
+            Id: 8295154599251105935
           }
         }
       }
@@ -713,7 +713,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 16853511573485398403
+            Id: 10927192117712216844
           }
         }
       }
@@ -758,7 +758,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 15020121261292648703
+            Id: 14945423095677218647
           }
         }
       }

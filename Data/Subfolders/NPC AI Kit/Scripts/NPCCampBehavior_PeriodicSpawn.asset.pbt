@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 9973488946906968303
+  Id: 9823259465471291574
   Name: "NPCCampBehavior_PeriodicSpawn"
   PlatformAssetType: 3
   TextAsset {
@@ -13,12 +13,28 @@
         Float: 15
       }
       Overrides {
+        Name: "cs:ResetOnRoundStart"
+        Bool: true
+      }
+      Overrides {
+        Name: "cs:ResetOnRoundEnd"
+        Bool: false
+      }
+      Overrides {
         Name: "cs:InitialDelay:tooltip"
         String: "The initial delay before the camp spawns the first NPCs."
       }
       Overrides {
         Name: "cs:RespawnCooldown:tooltip"
         String: "The period, in seconds, between spawns. Will keep spawning regardless of what happens to the NPCs."
+      }
+      Overrides {
+        Name: "cs:ResetOnRoundStart:tooltip"
+        String: "If true, the NPC camp will reset when a new game round starts."
+      }
+      Overrides {
+        Name: "cs:ResetOnRoundEnd:tooltip"
+        String: "If true, the NPC camp will reset when an active game round ends."
       }
     }
   }

@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 12327975845939134578
+  Id: 12662449693939972242
   Name: "Fire Magic Glow Material 2"
   PlatformAssetType: 13
   SerializationVersion: 62

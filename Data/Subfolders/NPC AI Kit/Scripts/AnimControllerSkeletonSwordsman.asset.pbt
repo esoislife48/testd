@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 12862503840893471610
+  Id: 3970357234328254381
   Name: "AnimControllerSkeletonSwordsman"
   PlatformAssetType: 3
   TextAsset {

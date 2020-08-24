@@ -17,6 +17,7 @@ Objects {
   ChildIds: 9289100485998335396
   ChildIds: 10997715235763321982
   ChildIds: 4052255498524028070
+  ChildIds: 4490301108425910855
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -26,6 +27,51 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 4490301108425910855
+  Name: "WeaponsSystem"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 10361580936508280267
+      value {
+        Overrides {
+          Name: "Name"
+          String: "WeaponsSystem"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -670
+            Y: -355
+            Z: 515
+          }
+        }
+        Overrides {
+          Name: "Rotation"
+          Rotator {
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 17224475438935388329
+    }
   }
 }
 Objects {

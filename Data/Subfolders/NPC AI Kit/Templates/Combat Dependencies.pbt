@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 7543820949371793289
+  Id: 15084919357480585146
   Name: "Combat Dependencies"
   PlatformAssetType: 5
   TemplateAsset {
@@ -53,7 +53,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 14453147357758503103
+            Id: 10039668359039687341
           }
         }
       }
@@ -82,7 +82,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 15844865738735759656
+            Id: 12352305919935443373
           }
         }
       }
@@ -109,7 +109,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 857623517785849224
+            Id: 4055022832089043761
           }
         }
       }
@@ -138,7 +138,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 392080307563253678
+            Id: 553074362508530703
           }
         }
       }

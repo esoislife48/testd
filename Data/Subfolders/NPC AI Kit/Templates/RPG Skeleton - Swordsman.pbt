@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 16110668840110239498
+  Id: 3121619643225700900
   Name: "RPG Skeleton - Swordsman"
   PlatformAssetType: 5
   TemplateAsset {
@@ -291,7 +291,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 2952763944501741081
+            Id: 15626241454342021168
           }
         }
       }
@@ -333,25 +333,25 @@
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 15962535167730380120
+              Id: 12993497731914821462
             }
           }
           Overrides {
             Name: "cs:MuzzleFlash"
             AssetReference {
-              Id: 6601210908691862818
+              Id: 2613779683781926739
             }
           }
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15925255215171086805
+              Id: 13371183979588044104
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 13290744368253898530
+              Id: 13692009545367405293
             }
           }
           Overrides {
@@ -380,7 +380,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 5475798990482747781
+            Id: 8481237916235331159
           }
         }
       }
@@ -573,7 +573,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10516471000312922134
+            Id: 5164319707953879774
           }
         }
       }
@@ -602,13 +602,13 @@
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
         }
@@ -620,7 +620,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 14428142728039202536
+            Id: 8295154599251105935
           }
         }
       }
@@ -715,7 +715,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 16853511573485398403
+            Id: 10927192117712216844
           }
         }
       }
@@ -756,7 +756,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 12862503840893471610
+            Id: 3970357234328254381
           }
         }
       }
@@ -783,7 +783,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 2750085544478947195
+            Id: 10801233683245725182
           }
         }
       }
@@ -808,7 +808,7 @@
           Overrides {
             Name: "ma:Shared_BaseMaterial:id"
             AssetReference {
-              Id: 10752252133326961240
+              Id: 9135447865389084166
             }
           }
           Overrides {
@@ -4186,7 +4186,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 11225433147663259470
+            Id: 13657250821923332256
           }
         }
       }
@@ -4300,7 +4300,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 11225433147663259470
+            Id: 13657250821923332256
           }
         }
       }
@@ -4581,7 +4581,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 11225433147663259470
+            Id: 13657250821923332256
           }
         }
       }
@@ -4810,7 +4810,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 11225433147663259470
+            Id: 13657250821923332256
           }
         }
       }
@@ -4835,7 +4835,7 @@
           Overrides {
             Name: "ma:Nature_Grass:id"
             AssetReference {
-              Id: 3542612335477559619
+              Id: 13818552380950969114
             }
           }
           Overrides {
@@ -4923,7 +4923,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 11225433147663259470
+            Id: 13657250821923332256
           }
         }
       }
@@ -5063,7 +5063,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 11225433147663259470
+            Id: 13657250821923332256
           }
         }
       }

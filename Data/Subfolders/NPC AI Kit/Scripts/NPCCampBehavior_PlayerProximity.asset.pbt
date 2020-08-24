@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 18192513639760374067
+  Id: 4955956906852568993
   Name: "NPCCampBehavior_PlayerProximity"
   PlatformAssetType: 3
   TextAsset {
@@ -25,6 +25,14 @@
         Float: 15
       }
       Overrides {
+        Name: "cs:ResetOnRoundStart"
+        Bool: false
+      }
+      Overrides {
+        Name: "cs:ResetOnRoundEnd"
+        Bool: false
+      }
+      Overrides {
         Name: "cs:InsideTrigger:tooltip"
         String: "Reference to the small/inside trigger. When a player enters this area the camp spawns the NPCs."
       }
@@ -39,6 +47,14 @@
       Overrides {
         Name: "cs:DespawnDelay:tooltip"
         String: "After all players exit the outside trigger a countdown begins. When it reaches zero that\'s when the NPCs de-spawn. If players keep entering/exiting the outside trigger the delay starts over."
+      }
+      Overrides {
+        Name: "cs:ResetOnRoundStart:tooltip"
+        String: "If true, the NPC camp will reset when a new game round starts."
+      }
+      Overrides {
+        Name: "cs:ResetOnRoundEnd:tooltip"
+        String: "If true, the NPC camp will reset when an active game round ends."
       }
     }
   }

@@ -1,5 +1,5 @@
 ﻿Assets {
-  Id: 1503691232160250009
+  Id: 1093306733528724552
   Name: "RPG Raptor"
   PlatformAssetType: 5
   TemplateAsset {
@@ -291,7 +291,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 2952763944501741081
+            Id: 15626241454342021168
           }
         }
       }
@@ -333,7 +333,7 @@
           Overrides {
             Name: "cs:ProjectileBody"
             AssetReference {
-              Id: 15962535167730380120
+              Id: 12993497731914821462
             }
           }
           Overrides {
@@ -345,13 +345,13 @@
           Overrides {
             Name: "cs:ImpactSurface"
             AssetReference {
-              Id: 15925255215171086805
+              Id: 13371183979588044104
             }
           }
           Overrides {
             Name: "cs:ImpactCharacter"
             AssetReference {
-              Id: 13290744368253898530
+              Id: 13692009545367405293
             }
           }
           Overrides {
@@ -380,7 +380,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 5475798990482747781
+            Id: 8481237916235331159
           }
         }
       }
@@ -573,7 +573,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 10516471000312922134
+            Id: 5164319707953879774
           }
         }
       }
@@ -602,13 +602,13 @@
           Overrides {
             Name: "cs:DamageFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
           Overrides {
             Name: "cs:DestroyFX"
             AssetReference {
-              Id: 15524199285146660848
+              Id: 6263610847307883087
             }
           }
         }
@@ -620,7 +620,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 14428142728039202536
+            Id: 8295154599251105935
           }
         }
       }
@@ -711,7 +711,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 16853511573485398403
+            Id: 10927192117712216844
           }
         }
       }
@@ -752,7 +752,7 @@
         }
         Script {
           ScriptAsset {
-            Id: 9044878891207193287
+            Id: 8806441729200743447
           }
         }
       }
