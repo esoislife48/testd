@@ -17,7 +17,6 @@ Objects {
   ChildIds: 9289100485998335396
   ChildIds: 10997715235763321982
   ChildIds: 4052255498524028070
-  ChildIds: 10126734374604777057
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -27,41 +26,6 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
-  }
-}
-Objects {
-  Id: 10126734374604777057
-  Name: "advanced axe but with different color"
-  Transform {
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  WantsNetworking: true
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 18349659105178778687
-      value {
-        Overrides {
-          Name: "Name"
-          String: "advanced axe but with different color"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -1036.55859
-            Y: -926.613159
-            Z: 487.171692
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 11352079075703477989
-    }
   }
 }
 Objects {

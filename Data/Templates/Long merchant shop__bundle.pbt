@@ -42,7 +42,7 @@
   Marketplace {
     Id: "dbecb739ebc0425d97c7433af994b61c"
     OwnerAccountId: "a7fa1014cab64595bee90b0049070c8e"
-    OwnerName: "AphrimCreates"
+    OwnerName: "Aphrim"
     Version: "1.0.0"
     Description: "A big merchant shop. "
   }

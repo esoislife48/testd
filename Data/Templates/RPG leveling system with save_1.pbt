@@ -42,7 +42,7 @@
   Marketplace {
     Id: "76b5b619d67345b88a5bc7ea27de855d"
     OwnerAccountId: "a7fa1014cab64595bee90b0049070c8e"
-    OwnerName: "AphrimCreates"
+    OwnerName: "Aphrim"
     Description: "Advanced leveling system to be used with NPC AI KIT. Everytime you level up, amont of exp to level up increases, health increases, damage increases. UI not included."
   }
   SerializationVersion: 62

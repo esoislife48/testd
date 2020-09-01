@@ -42,7 +42,7 @@
   Marketplace {
     Id: "9f6871fc07304f3d9137930f319bb691"
     OwnerAccountId: "a7fa1014cab64595bee90b0049070c8e"
-    OwnerName: "AphrimCreates"
+    OwnerName: "Aphrim"
     Version: "1.0.0"
     Description: "The mystery Forest from Core Royale."
   }
