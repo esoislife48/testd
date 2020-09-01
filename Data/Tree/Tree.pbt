@@ -17,7 +17,7 @@ Objects {
   ChildIds: 9289100485998335396
   ChildIds: 10997715235763321982
   ChildIds: 4052255498524028070
-  ChildIds: 4490301108425910855
+  ChildIds: 10126734374604777057
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -30,8 +30,8 @@ Objects {
   }
 }
 Objects {
-  Id: 4490301108425910855
-  Name: "WeaponsSystem"
+  Id: 10126734374604777057
+  Name: "advanced axe but with different color"
   Transform {
     Scale {
       X: 1
@@ -40,37 +40,27 @@ Objects {
     }
   }
   ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
+  WantsNetworking: true
   TemplateInstance {
     ParameterOverrideMap {
-      key: 10361580936508280267
+      key: 18349659105178778687
       value {
         Overrides {
           Name: "Name"
-          String: "WeaponsSystem"
+          String: "advanced axe but with different color"
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -670
-            Y: -355
-            Z: 515
-          }
-        }
-        Overrides {
-          Name: "Rotation"
-          Rotator {
+            X: -1036.55859
+            Y: -926.613159
+            Z: 487.171692
           }
         }
       }
     }
     TemplateAsset {
-      Id: 17224475438935388329
+      Id: 11352079075703477989
     }
   }
 }

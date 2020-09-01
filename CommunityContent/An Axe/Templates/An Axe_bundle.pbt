@@ -1,12 +1,12 @@
 ﻿Assets {
-  Id: 3495739014777563719
-  Name: "weapon system"
+  Id: 31415891687479409
+  Name: "An Axe"
   PlatformAssetType: 5
   TemplateAsset {
     ObjectBlock {
-      RootId: 3268437452086886489
+      RootId: 393927264194851588
       Objects {
-        Id: 3268437452086886489
+        Id: 393927264194851588
         Name: "TemplateBundleDummy"
         Transform {
           Location {
@@ -19,10 +19,16 @@
             Z: 1
           }
         }
+        Collidable_v2 {
+          Value: "mc:ecollisionsetting:forceon"
+        }
+        Visible_v2 {
+          Value: "mc:evisibilitysetting:forceon"
+        }
         Folder {
           BundleDummy {
             ReferencedAssets {
-              Id: 17224475438935388329
+              Id: 4252192701850294021
             }
           }
         }
@@ -34,11 +40,11 @@
     }
   }
   Marketplace {
-    Id: "546920154d7d46a8b166ea44a5244928"
-    OwnerAccountId: "d69bea0bd5904283a2f209f87c524661"
-    OwnerName: "slimeychiken"
+    Id: "5cfdd318bd3f4aa8acd2bfcc89f2d52b"
+    OwnerAccountId: "1900990661494af699b2ac2482b8cc95"
+    OwnerName: "Ripper"
     Version: "1.0.0"
-    Description: "weapon system made by slimychiken\r\n\r\n-- necro staff"
+    Description: "A small axe for chopping wood or enemies!"
   }
   SerializationVersion: 62
 }
